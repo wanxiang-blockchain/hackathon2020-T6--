@@ -1,1 +1,2 @@
-# hackathon2020-T6--
+# hackathon2020-T6-Decentralized Autonomous Virtual Power Plant marketplace
+通过基于区块链技术的去中心化计算和调度，配合AIot终端计量和通信，把区域海量分布式楼宇的用能进行统一管理、协调优化。减少分布式能源对主网的冲击，提高主网稳定性，提升区域楼宇能源利用效率及经济效益
